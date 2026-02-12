@@ -1,4 +1,6 @@
-## Hi there 👋
+I’m Ganesh Pareek
+I’m interested in any Data Analyst role.
+I’m currently learning Data Analysis.
 
 <!--
 **Rahulpareek22/Rahulpareek22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
